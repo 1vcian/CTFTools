@@ -36,6 +36,8 @@
 **forensic:**
   **.pcpng:**
     -wireshark
+    -zeek
+    -brim
    
   **.E01/other:**
     -sleuthkit
