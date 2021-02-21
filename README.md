@@ -2,51 +2,54 @@
 **web**
 
   **any:**
-    burp
-    zap
-    dirbuster
-    nmap
+    -burp
+    -zap
+    -dirbuster
+    -nmap
     
   **sql:**
-    sql-map
+    -sql-map
     
   **template:**
-    PayloadsAllTheThings
+    -PayloadsAllTheThings
     
   **ssrf:**
-    SSRFmap
+    -SSRFmap
     
   **xss:**
-  request smuggling:
+    -request smuggling:
   
 ------------------------------------------
 **pwn/reverse**
 
   **any:**
-    ida/ida-pro
-    ghidra
-    radare2
+    -ida/ida-pro
+    -ghidra
+    -radare2
     
    **android:**
-      jadx  (view source code)
-      adb   (eg. adb logcat | FINDSTR TypicalLogcat)
+     -jadx  (view source code)
+     -adb   (eg. adb logcat | FINDSTR TypicalLogcat)
       
 ------------------------------------------
 **forensic:**
   **.pcpng:**
-    wireshark
+    -wireshark
    
   **.E01/other:**
-    sleuthkit
+    -sleuthkit
     
 ------------------------------------------
 **stego:**
   **any:**
-    steghide
-    binwalk
+    -steghide
+    -binwalk
     
   **wav file:**
-    Sonic Visualizer (show spectrum waves)
-    arss-0.2.3       (converts an image into a wav eg. darkcon Camouflage)
+    -Sonic Visualizer (show spectrum waves)
+    -arss-0.2.3       (converts an image into a wav eg. darkcon Camouflage)
     
   ----------------------------------------
+**OSINT**
+  **username:**
+    -https://instantusername.com/
