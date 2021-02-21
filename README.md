@@ -12,6 +12,7 @@
     
   **template:**
     -PayloadsAllTheThings
+    -TPLMAp
     
   **ssrf:**
     -SSRFmap
