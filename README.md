@@ -1,51 +1,51 @@
 ----------------------------------------
-web:
+**web**
 
-  anything:
+  **any:**
     burp
     zap
     dirbuster
     nmap
     
-  sql:
+  **sql:**
     sql-map
     
-  template:
+  **template:**
     PayloadsAllTheThings
     
-  ssrf:
+  **ssrf:**
     SSRFmap
     
-  xss:
+  **xss:**
   request smuggling:
   
 ------------------------------------------
-pwn/reverse:
+**pwn/reverse**
 
-  anything:
+  **any:**
     ida/ida-pro
     ghidra
     radare2
     
-   android:
+   **android:**
       jadx  (view source code)
       adb   (eg. adb logcat | FINDSTR TypicalLogcat)
       
 ------------------------------------------
-forensic:
-  .pcpng:
+**forensic:**
+  **.pcpng:**
     wireshark
    
-  .E01/other:
+  **.E01/other:**
     sleuthkit
     
 ------------------------------------------
-stego:
-  any:
+**stego:**
+  **any:**
     steghide
     binwalk
     
-  wav file:
+  **wav file:**
     Sonic Visualizer (show spectrum waves)
     arss-0.2.3       (converts an image into a wav eg. darkcon Camouflage)
     
