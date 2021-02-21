@@ -52,4 +52,4 @@
   ----------------------------------------
 **OSINT**
   **username:**
-    -https://instantusername.com/
+    - https://instantusername.com/
