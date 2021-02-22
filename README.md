@@ -11,11 +11,11 @@
 - sql-map
     
 **template:**
-- PayloadsAllTheThings
-- TPLMAp
+- PayloadsAllTheThings <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">here</a>
+- TPLMAp <a href="https://github.com/epinna/tplmap">here</a>
     
 **ssrf:**
-- SSRFmap
+- SSRFmap <a href="https://github.com/swisskyrepo/SSRFmap">here</a>
     
 **xss:**
 - request smuggling:
@@ -59,3 +59,8 @@
 
 **username:**
 - https://instantusername.com/
+
+# __*Crypto*__
+
+- RSACTFTool <a href="https://github.com/Ganapati/RsaCtfTool">here</a>
+- Wiki for possible attack <a href="https://bitsdeep.com/posts/attacking-rsa-for-fun-and-ctf-points-part-1/">here</a> and <a href="https://wiki.x10sec.org/crypto/asymmetric/rsa/rsa_e_attack/">here</a>
