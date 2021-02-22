@@ -2,57 +2,60 @@
 # __*Web*__
 
 **any:**
-    - burp
-    - zap
-    - dirbuster
-    - nmap
+- burp
+- zap
+- dirbuster
+- nmap
     
-  **sql:**
-    - sql-map
+**sql:**
+- sql-map
     
-  **template:**
-    - PayloadsAllTheThings
-    - TPLMAp
+**template:**
+- PayloadsAllTheThings
+- TPLMAp
     
-  **ssrf:**
-    - SSRFmap
+**ssrf:**
+- SSRFmap
     
-  **xss:**
-    - request smuggling:
+**xss:**
+- request smuggling:
   
 ------------------------------------------
 # __*Pwn/Reverse*__
 
-  **any:**
-    - ida/ida-pro
-    - ghidra
-    - radare2
+**any:**
+- ida/ida-pro
+- ghidra
+- radare2
     
-   **android:**
-     - jadx  (view source code)
-     - adb   (eg. adb logcat | FINDSTR TypicalLogcat)
+**android:**
+- jadx  (view source code)
+- adb   (eg. adb logcat | FINDSTR TypicalLogcat)
       
 ------------------------------------------
 # __*Forensic*__
-  **.pcpng:**
-    - wireshark
-    - zeek
-    - brim
+
+**.pcpng:**
+- wireshark
+- zeek
+- brim
    
-  **.E01/other:**
-    - sleuthkit
+**.E01/other:**
+- sleuthkit
     
 ------------------------------------------
 # __*Stego*__
-  **any:**
-    - steghide
-    - binwalk
+
+**any:**
+- steghide
+- binwalk
     
-  **wav file:**
-    - Sonic Visualizer (show spectrum waves)
-    - arss-0.2.3       (converts an image into a wav eg. darkcon Camouflage)
+**wav file:**
+- Sonic Visualizer (show spectrum waves)
+- arss-0.2.3       (converts an image into a wav eg. darkcon Camouflage)
     
   ----------------------------------------
 # __*OSINT*__
-  **username:**
-    - https://instantusername.com/
+
+**username:**
+- https://instantusername.com/
