@@ -67,6 +67,7 @@ The second link will reach another page.
 <img src="img/mattermost.png"> 
 
 ## Exploiting HelpDesk
+
 Here we can rise a ticket. At the end of the procedure it says that we can contact the service with an email at "<ticket-number>@DELIVERY.HTB". This is a very important thing.
 We tryied to use this email to register us to the mattermost server and boom, we are in!
   
