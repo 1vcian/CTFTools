@@ -5,19 +5,19 @@
       <a href="#Enumeration">Enumeration</a>
     </li>
     <li>
-      <a href="#/etc/hosts">DNS for services name</a>
+      <a href="#/etc/hosts">/etc/hosts</a>
     </li>
     <li>
-      <a href="#Exploiting HelpDesk">Use HelpDesk to gain access</a>
+      <a href="#Exploiting HelpDesk">Exploiting HelpDesk</a>
     </li>
     <li>
-      <a href="#MailDeliverer">Access to the machine</a>
+      <a href="#MailDeliverer">MailDeliverer</a>
     </li>
     <li>
-      <a href="#Hash">Crack Hash</a>
+      <a href="#Hash">Hash</a>
     </li>
     <li>
-      <a href="#Privilege esclation">Gain root privilege</a>
+      <a href="#Privilege esclation">Privilege esclation</a>
     </li>
   </ol>
 </details>
