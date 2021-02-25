@@ -29,14 +29,14 @@ First of all we can try to enumerate all opened ports on the machine. To do this
 
 Running 'nmap -sV 10.10.10.222' will give us the following result:
 
-'Starting Nmap 7.80 ( https://nmap.org ) at 2021-02-25 15:58 CET
+'''Starting Nmap 7.80 ( https://nmap.org ) at 2021-02-25 15:58 CET
 Nmap scan report for 10.10.10.222
 Host is up (0.20s latency).
 Not shown: 998 closed ports
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.9p1 Debian 10+deb10u2 (protocol 2.0)
 80/tcp open  http    nginx 1.14.2
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel'
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel'''
 
 As we can see we have two listening services:
   1. OpenSsh on port 22 (will see next)
