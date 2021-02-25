@@ -66,7 +66,7 @@ We tryied to use this email to register us to the mattermost server and boom, we
 
 In this chat there are a lot of usefull hints and a user to access trough ssh to the machine.
 
-<img src="img/maildelivere.png">
+<img src="img/maildeliverer.png">
 
 In the home folder of the user we can find a file with containing an hash string (rabbit hole). Searching in the system we found that an istance of mysql server is on, but we dont have any credentials. Surfing on internet we found that a config file of mottermost can contain the credential of the db running in the beckend. That's it! We found the credential of the db in the confing file of mattermost server, we have connected to the mysql db and searched for credential. In this way we have gained the hash of root user's password. Following the hints in the mattermost chat we tryid to crack this hash with an hashcat rule attack (<a href="https://github.com/praetorian-inc/Hob0Rules">usefull repo</a>). The result of this process will give the password for the root user and using maildeliverer account with ssh we can access trough root to the machine. In the home of root user we can found a file containing the flag
 
