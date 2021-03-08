@@ -10,11 +10,9 @@
 [**SQL:**](Web/sql.md)
 - sql-map
     
-[**TEMPLATE:**](Web/ssti.md)
+[**SSTI:**](Web/ssti.md)
 - <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">PayloadsAllTheThings</a>
 - <a href="https://github.com/epinna/tplmap">TPLMAp</a>
-
-[**SSTI:**](Web/ssti.md)
 
 [**SSRF:**](Web/ssrf.md)
 - <a href="https://github.com/swisskyrepo/SSRFmap">SSRFmap</a>
