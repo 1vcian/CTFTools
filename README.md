@@ -1,25 +1,25 @@
 ----------------------------------------
 # __*Web*__
 
-**any:**
+**ANY:**
 - burp
 - zap
 - dirbuster
 - nmap
     
-**sql:**
+[**SQL:**](Web/sql.md)
 - sql-map
     
-**template:**
+[**TEMPLATE:**](Web/ssti.md)
 - <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">PayloadsAllTheThings</a>
 - <a href="https://github.com/epinna/tplmap">TPLMAp</a>
 
-[**ssti:**](Web/ssti.md)
+[**SSTI:**](Web/ssti.md)
 
-**ssrf:**
+[**SSRF:**](Web/ssrf.md)
 - <a href="https://github.com/swisskyrepo/SSRFmap">SSRFmap</a>
     
-**xss:**
+[**XSS:**](Web/xss.md)
 - request smuggling:
   
 ------------------------------------------
