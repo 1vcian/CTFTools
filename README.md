@@ -13,7 +13,9 @@
 **template:**
 - <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">PayloadsAllTheThings</a>
 - <a href="https://github.com/epinna/tplmap">TPLMAp</a>
-    
+
+[**ssti:**](Web/ssti.md)
+
 **ssrf:**
 - <a href="https://github.com/swisskyrepo/SSRFmap">SSRFmap</a>
     
