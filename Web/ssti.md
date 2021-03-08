@@ -1,3 +1,3 @@
-General vulnerability check :
+## General vulnerability check :
 
-<img source="/CTFTools/Web/images/ssti.png">
+<img src="images/ssti.png">
